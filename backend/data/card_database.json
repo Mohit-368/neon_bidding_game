@@ -1,0 +1,170 @@
+[
+  {
+    "id": "po-01",
+    "name": "Pikachu",
+    "image": "/pokemon_cards/pikachu.svg",
+    "power": 72,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-02",
+    "name": "Charizard",
+    "image": "/pokemon_cards/charizard.svg",
+    "power": 94,
+    "tier": "Legendary"
+  },
+  {
+    "id": "po-03",
+    "name": "Bulbasaur",
+    "image": "/pokemon_cards/bulbasaur.svg",
+    "power": 48,
+    "tier": "Common"
+  },
+  {
+    "id": "po-04",
+    "name": "Gengar",
+    "image": "/pokemon_cards/gengar.svg",
+    "power": 81,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-05",
+    "name": "Mewtwo",
+    "image": "/pokemon_cards/mewtwo.svg",
+    "power": 99,
+    "tier": "Legendary"
+  },
+  {
+    "id": "po-06",
+    "name": "Squirtle",
+    "image": "/pokemon_cards/squirtle.svg",
+    "power": 43,
+    "tier": "Common"
+  },
+  {
+    "id": "po-07",
+    "name": "Lucario",
+    "image": "/pokemon_cards/lucario.svg",
+    "power": 84,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-08",
+    "name": "Rayquaza",
+    "image": "/pokemon_cards/rayquaza.svg",
+    "power": 100,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-01",
+    "name": "Virat Kohli",
+    "image": "/cricketers/kohli.svg",
+    "power": 96,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-02",
+    "name": "Rohit Sharma",
+    "image": "/cricketers/rohit.svg",
+    "power": 90,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-03",
+    "name": "Jasprit Bumrah",
+    "image": "/cricketers/bumrah.svg",
+    "power": 92,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-04",
+    "name": "MS Dhoni",
+    "image": "/cricketers/dhoni.svg",
+    "power": 91,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-05",
+    "name": "Hardik Pandya",
+    "image": "/cricketers/hardik.svg",
+    "power": 82,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-06",
+    "name": "Shubman Gill",
+    "image": "/cricketers/gill.svg",
+    "power": 77,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-07",
+    "name": "Ravindra Jadeja",
+    "image": "/cricketers/jadeja.svg",
+    "power": 79,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-08",
+    "name": "Suryakumar Yadav",
+    "image": "/cricketers/sky.svg",
+    "power": 74,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-01",
+    "name": "Iron Man",
+    "image": "/superheroes/iron-man.svg",
+    "power": 95,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-02",
+    "name": "Thor",
+    "image": "/superheroes/thor.svg",
+    "power": 97,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-03",
+    "name": "Spider-Man",
+    "image": "/superheroes/spider-man.svg",
+    "power": 83,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-04",
+    "name": "Captain America",
+    "image": "/superheroes/captain-america.svg",
+    "power": 86,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-05",
+    "name": "Black Panther",
+    "image": "/superheroes/black-panther.svg",
+    "power": 88,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-06",
+    "name": "Hulk",
+    "image": "/superheroes/hulk.svg",
+    "power": 98,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-07",
+    "name": "Doctor Strange",
+    "image": "/superheroes/doctor-strange.svg",
+    "power": 93,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-08",
+    "name": "Ant-Man",
+    "image": "/superheroes/ant-man.svg",
+    "power": 55,
+    "tier": "Common"
+  }
+]

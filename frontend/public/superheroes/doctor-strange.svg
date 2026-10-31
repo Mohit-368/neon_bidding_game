@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 620" role="img" aria-label="Doctor Strange placeholder card">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#4b2b12"/><stop offset="1" stop-color="#090d18"/></linearGradient><radialGradient id="r"><stop stop-color="#f6bd60" stop-opacity=".38"/><stop offset="1" stop-color="#f6bd60" stop-opacity="0"/></radialGradient></defs>
+<rect width="480" height="620" rx="34" fill="url(#g)"/><circle cx="240" cy="268" r="210" fill="url(#r)"/><rect x="18" y="18" width="444" height="584" rx="26" fill="none" stroke="#f6bd60" stroke-opacity=".8" stroke-width="4"/>
+<path d="M70 450 L240 130 L410 450" fill="none" stroke="#f6bd60" stroke-opacity=".3" stroke-width="4"/><circle cx="240" cy="280" r="112" fill="#f6bd60" fill-opacity=".11" stroke="#f6bd60" stroke-width="3"/>
+<text x="240" y="315" text-anchor="middle" font-family="Arial,sans-serif" font-size="100" font-weight="800" fill="#f6bd60">DS</text>
+<text x="240" y="510" text-anchor="middle" font-family="Arial,sans-serif" font-size="30" font-weight="700" fill="#f8fafc">Doctor Strange</text><text x="240" y="550" text-anchor="middle" font-family="Arial,sans-serif" font-size="16" letter-spacing="5" fill="#f6bd60">LEGENDARY</text></svg>

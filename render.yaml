@@ -1,0 +1,17 @@
+services:
+  - type: web
+    name: auction-arena
+    runtime: node
+    plan: starter
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_ENV
+        value: production
+      - key: AUCTION_DURATION_SECONDS
+        value: "10"
+      - key: ROOM_DISCONNECT_GRACE_SECONDS
+        value: "60"
+      - key: DEFAULT_STARTING_BUDGET
+        value: "20"
