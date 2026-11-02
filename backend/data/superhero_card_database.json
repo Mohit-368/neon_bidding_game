@@ -1,0 +1,212 @@
+[
+  {
+    "id": "su-01",
+    "name": "Iron Man",
+    "image": "/superheroes/iron-man.svg",
+    "power": 91,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-02",
+    "name": "Thor",
+    "image": "/superheroes/thor.svg",
+    "power": 98,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-03",
+    "name": "Spider-Man",
+    "image": "/superheroes/spider-man.svg",
+    "power": 84,
+    "tier": "Rare"
+  },
+  {
+    "id": "su-04",
+    "name": "Captain America",
+    "image": "/superheroes/captain-america.svg",
+    "power": 79,
+    "tier": "Rare"
+  },
+  {
+    "id": "su-05",
+    "name": "Black Panther",
+    "image": "/superheroes/black-panther.svg",
+    "power": 86,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-06",
+    "name": "Hulk",
+    "image": "/superheroes/hulk.svg",
+    "power": 99,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-07",
+    "name": "Doctor Strange",
+    "image": "/superheroes/doctor-strange.svg",
+    "power": 96,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-08",
+    "name": "Ant-Man",
+    "image": "/superheroes/ant-man.svg",
+    "power": 70,
+    "tier": "Common"
+  },
+  {
+    "id": "su-09",
+    "name": "Superman",
+    "image": "/superheroes/superman.svg",
+    "power": 100,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-10",
+    "name": "Batman",
+    "image": "/superheroes/batman.svg",
+    "power": 88,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-11",
+    "name": "Wonder Woman",
+    "image": "/superheroes/wonder-woman.svg",
+    "power": 95,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-12",
+    "name": "The Flash",
+    "image": "/superheroes/flash.svg",
+    "power": 93,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-13",
+    "name": "Aquaman",
+    "image": "/superheroes/aquaman.svg",
+    "power": 82,
+    "tier": "Rare"
+  },
+  {
+    "id": "su-14",
+    "name": "Green Lantern",
+    "image": "/superheroes/green-lantern.svg",
+    "power": 90,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-15",
+    "name": "Wolverine",
+    "image": "/superheroes/wolverine.svg",
+    "power": 87,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-16",
+    "name": "Deadpool",
+    "image": "/superheroes/deadpool.svg",
+    "power": 85,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-17",
+    "name": "Black Widow",
+    "image": "/superheroes/black-widow.svg",
+    "power": 76,
+    "tier": "Rare"
+  },
+  {
+    "id": "su-18",
+    "name": "Hawkeye",
+    "image": "/superheroes/hawkeye.svg",
+    "power": 72,
+    "tier": "Common"
+  },
+  {
+    "id": "su-19",
+    "name": "Captain Marvel",
+    "image": "/superheroes/captain-marvel.svg",
+    "power": 97,
+    "tier": "Legendary"
+  },
+  {
+    "id": "su-20",
+    "name": "Scarlet Witch",
+    "image": "/superheroes/scarlet-witch.svg",
+    "power": 94,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-21",
+    "name": "Vision",
+    "image": "/superheroes/vision.svg",
+    "power": 92,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-22",
+    "name": "Star-Lord",
+    "image": "/superheroes/star-lord.svg",
+    "power": 74,
+    "tier": "Common"
+  },
+  {
+    "id": "su-23",
+    "name": "Groot",
+    "image": "/superheroes/groot.svg",
+    "power": 78,
+    "tier": "Rare"
+  },
+  {
+    "id": "su-24",
+    "name": "Rocket Raccoon",
+    "image": "/superheroes/rocket-raccoon.svg",
+    "power": 73,
+    "tier": "Common"
+  },
+  {
+    "id": "su-25",
+    "name": "Shazam",
+    "image": "/superheroes/shazam.svg",
+    "power": 89,
+    "tier": "Epic"
+  },
+  {
+    "id": "su-26",
+    "name": "Cyborg",
+    "image": "/superheroes/cyborg.svg",
+    "power": 80,
+    "tier": "Rare"
+  },
+  {
+    "id": "su-27",
+    "name": "Nightwing",
+    "image": "/superheroes/nightwing.svg",
+    "power": 71,
+    "tier": "Common"
+  },
+  {
+    "id": "su-28",
+    "name": "Venom",
+    "image": "/superheroes/venom.svg",
+    "power": 83,
+    "tier": "Rare"
+  },
+  {
+    "id": "su-29",
+    "name": "Loki",
+    "image": "/superheroes/loki.svg",
+    "power": 81,
+    "tier": "Rare"
+  },
+  {
+    "id": "su-30",
+    "name": "Silver Surfer",
+    "image": "/superheroes/silver-surfer.svg",
+    "power": 75,
+    "tier": "Rare"
+  }
+]

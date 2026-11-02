@@ -1,0 +1,212 @@
+[
+  {
+    "id": "cr-01",
+    "name": "Virat Kohli",
+    "image": "/cricketers/kohli.svg",
+    "power": 99,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-02",
+    "name": "Rohit Sharma",
+    "image": "/cricketers/rohit.svg",
+    "power": 95,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-03",
+    "name": "Jasprit Bumrah",
+    "image": "/cricketers/bumrah.svg",
+    "power": 96,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-04",
+    "name": "MS Dhoni",
+    "image": "/cricketers/dhoni.svg",
+    "power": 97,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-05",
+    "name": "Hardik Pandya",
+    "image": "/cricketers/hardik.svg",
+    "power": 72,
+    "tier": "Common"
+  },
+  {
+    "id": "cr-06",
+    "name": "Shubman Gill",
+    "image": "/cricketers/gill.svg",
+    "power": 78,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-07",
+    "name": "Ravindra Jadeja",
+    "image": "/cricketers/jadeja.svg",
+    "power": 92,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-08",
+    "name": "Suryakumar Yadav",
+    "image": "/cricketers/sky.svg",
+    "power": 71,
+    "tier": "Common"
+  },
+  {
+    "id": "cr-09",
+    "name": "Sachin Tendulkar",
+    "image": "/cricketers/sachin.svg",
+    "power": 100,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-10",
+    "name": "Rahul Dravid",
+    "image": "/cricketers/dravid.svg",
+    "power": 83,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-11",
+    "name": "Yuvraj Singh",
+    "image": "/cricketers/yuvraj.svg",
+    "power": 93,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-12",
+    "name": "Sourav Ganguly",
+    "image": "/cricketers/ganguly.svg",
+    "power": 75,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-13",
+    "name": "Rishabh Pant",
+    "image": "/cricketers/pant.svg",
+    "power": 76,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-14",
+    "name": "KL Rahul",
+    "image": "/cricketers/kl-rahul.svg",
+    "power": 74,
+    "tier": "Common"
+  },
+  {
+    "id": "cr-15",
+    "name": "Mohammed Shami",
+    "image": "/cricketers/shami.svg",
+    "power": 80,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-16",
+    "name": "Anil Kumble",
+    "image": "/cricketers/kumble.svg",
+    "power": 84,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-17",
+    "name": "Brian Lara",
+    "image": "/cricketers/lara.svg",
+    "power": 94,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-18",
+    "name": "AB de Villiers",
+    "image": "/cricketers/abd.svg",
+    "power": 98,
+    "tier": "Legendary"
+  },
+  {
+    "id": "cr-19",
+    "name": "Chris Gayle",
+    "image": "/cricketers/gayle.svg",
+    "power": 90,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-20",
+    "name": "Steve Smith",
+    "image": "/cricketers/smith.svg",
+    "power": 88,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-21",
+    "name": "Kane Williamson",
+    "image": "/cricketers/williamson.svg",
+    "power": 87,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-22",
+    "name": "Babar Azam",
+    "image": "/cricketers/babar.svg",
+    "power": 79,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-23",
+    "name": "Ben Stokes",
+    "image": "/cricketers/stokes.svg",
+    "power": 89,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-24",
+    "name": "Kagiso Rabada",
+    "image": "/cricketers/rabada.svg",
+    "power": 77,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-25",
+    "name": "Shaheen Afridi",
+    "image": "/cricketers/shaheen.svg",
+    "power": 73,
+    "tier": "Common"
+  },
+  {
+    "id": "cr-26",
+    "name": "David Warner",
+    "image": "/cricketers/warner.svg",
+    "power": 91,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-27",
+    "name": "Glenn Maxwell",
+    "image": "/cricketers/maxwell.svg",
+    "power": 81,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-28",
+    "name": "Mitchell Starc",
+    "image": "/cricketers/starc.svg",
+    "power": 86,
+    "tier": "Epic"
+  },
+  {
+    "id": "cr-29",
+    "name": "Jos Buttler",
+    "image": "/cricketers/buttler.svg",
+    "power": 82,
+    "tier": "Rare"
+  },
+  {
+    "id": "cr-30",
+    "name": "Pat Cummins",
+    "image": "/cricketers/cummins.svg",
+    "power": 85,
+    "tier": "Epic"
+  }
+]
