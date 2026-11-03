@@ -1,7 +1,19 @@
 const fs = require('node:fs');
 const path = require('node:path');
 
-const databasePath = path.resolve(__dirname, '../../data/card_database.json');
+let databasePath = ""; 
+const randomNumber = Math.floor(Math.random() * 3) + 1;
+
+// 2. Corrected 'elif' to 'else if'
+if (randomNumber === 1) {
+  databasePath = path.resolve(__dirname, '../../data/card_database.json');
+} else if (randomNumber === 2) {
+  databasePath = path.resolve(__dirname, '../../data/card_database2.json');
+} else {
+  databasePath = path.resolve(__dirname, '../../data/card_database3.json');
+}
+
+path.resolve(__dirname, '../../data/card_database.json');
 const validTiers = new Set(['Common', 'Epic', 'Legendary']);
 
 function loadCards() {

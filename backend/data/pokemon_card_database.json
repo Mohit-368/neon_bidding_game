@@ -56,115 +56,157 @@
     "tier": "Legendary"
   },
   {
-    "id": "cr-01",
-    "name": "Virat Kohli",
-    "image": "/cricketers/kohli.svg",
-    "power": 96,
-    "tier": "Legendary"
+    "id": "po-09",
+    "name": "Eevee",
+    "image": "/pokemon_cards/eevee.svg",
+    "power": 55,
+    "tier": "Common"
   },
   {
-    "id": "cr-02",
-    "name": "Rohit Sharma",
-    "image": "/cricketers/rohit.svg",
-    "power": 90,
-    "tier": "Legendary"
+    "id": "po-10",
+    "name": "Jigglypuff",
+    "image": "/pokemon_cards/jigglypuff.svg",
+    "power": 42,
+    "tier": "Common"
   },
   {
-    "id": "cr-03",
-    "name": "Jasprit Bumrah",
-    "image": "/cricketers/bumrah.svg",
-    "power": 92,
-    "tier": "Legendary"
+    "id": "po-11",
+    "name": "Meowth",
+    "image": "/pokemon_cards/meowth.svg",
+    "power": 45,
+    "tier": "Common"
   },
   {
-    "id": "cr-04",
-    "name": "MS Dhoni",
-    "image": "/cricketers/dhoni.svg",
-    "power": 91,
-    "tier": "Legendary"
+    "id": "po-12",
+    "name": "Psyduck",
+    "image": "/pokemon_cards/psyduck.svg",
+    "power": 46,
+    "tier": "Common"
   },
   {
-    "id": "cr-05",
-    "name": "Hardik Pandya",
-    "image": "/cricketers/hardik.svg",
-    "power": 82,
-    "tier": "Epic"
-  },
-  {
-    "id": "cr-06",
-    "name": "Shubman Gill",
-    "image": "/cricketers/gill.svg",
-    "power": 77,
-    "tier": "Epic"
-  },
-  {
-    "id": "cr-07",
-    "name": "Ravindra Jadeja",
-    "image": "/cricketers/jadeja.svg",
+    "id": "po-13",
+    "name": "Snorlax",
+    "image": "/pokemon_cards/snorlax.svg",
     "power": 79,
     "tier": "Epic"
   },
   {
-    "id": "cr-08",
-    "name": "Suryakumar Yadav",
-    "image": "/cricketers/sky.svg",
-    "power": 74,
-    "tier": "Epic"
-  },
-  {
-    "id": "su-01",
-    "name": "Iron Man",
-    "image": "/superheroes/iron-man.svg",
-    "power": 95,
-    "tier": "Legendary"
-  },
-  {
-    "id": "su-02",
-    "name": "Thor",
-    "image": "/superheroes/thor.svg",
-    "power": 97,
-    "tier": "Legendary"
-  },
-  {
-    "id": "su-03",
-    "name": "Spider-Man",
-    "image": "/superheroes/spider-man.svg",
-    "power": 83,
-    "tier": "Epic"
-  },
-  {
-    "id": "su-04",
-    "name": "Captain America",
-    "image": "/superheroes/captain-america.svg",
-    "power": 86,
-    "tier": "Epic"
-  },
-  {
-    "id": "su-05",
-    "name": "Black Panther",
-    "image": "/superheroes/black-panther.svg",
+    "id": "po-14",
+    "name": "Gyarados",
+    "image": "/pokemon_cards/gyarados.svg",
     "power": 88,
     "tier": "Epic"
   },
   {
-    "id": "su-06",
-    "name": "Hulk",
-    "image": "/superheroes/hulk.svg",
-    "power": 98,
+    "id": "po-15",
+    "name": "Dragonite",
+    "image": "/pokemon_cards/dragonite.svg",
+    "power": 91,
     "tier": "Legendary"
   },
   {
-    "id": "su-07",
-    "name": "Doctor Strange",
-    "image": "/superheroes/doctor-strange.svg",
-    "power": 93,
+    "id": "po-16",
+    "name": "Arcanine",
+    "image": "/pokemon_cards/arcanine.svg",
+    "power": 78,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-17",
+    "name": "Lapras",
+    "image": "/pokemon_cards/lapras.svg",
+    "power": 76,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-18",
+    "name": "Vaporeon",
+    "image": "/pokemon_cards/vaporeon.svg",
+    "power": 74,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-19",
+    "name": "Jolteon",
+    "image": "/pokemon_cards/jolteon.svg",
+    "power": 73,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-20",
+    "name": "Flareon",
+    "image": "/pokemon_cards/flareon.svg",
+    "power": 75,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-21",
+    "name": "Umbreon",
+    "image": "/pokemon_cards/umbreon.svg",
+    "power": 82,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-22",
+    "name": "Espeon",
+    "image": "/pokemon_cards/espeon.svg",
+    "power": 80,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-23",
+    "name": "Greninja",
+    "image": "/pokemon_cards/greninja.svg",
+    "power": 89,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-24",
+    "name": "Gardevoir",
+    "image": "/pokemon_cards/gardevoir.svg",
+    "power": 86,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-25",
+    "name": "Lugia",
+    "image": "/pokemon_cards/lugia.svg",
+    "power": 96,
     "tier": "Legendary"
   },
   {
-    "id": "su-08",
-    "name": "Ant-Man",
-    "image": "/superheroes/ant-man.svg",
-    "power": 55,
-    "tier": "Common"
+    "id": "po-26",
+    "name": "Mew",
+    "image": "/pokemon_cards/mew.svg",
+    "power": 97,
+    "tier": "Legendary"
+  },
+  {
+    "id": "po-27",
+    "name": "Blastoise",
+    "image": "/pokemon_cards/blastoise.svg",
+    "power": 87,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-28",
+    "name": "Venusaur",
+    "image": "/pokemon_cards/venusaur.svg",
+    "power": 85,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-29",
+    "name": "Blaziken",
+    "image": "/pokemon_cards/blaziken.svg",
+    "power": 83,
+    "tier": "Epic"
+  },
+  {
+    "id": "po-30",
+    "name": "Ditto",
+    "image": "/pokemon_cards/ditto.svg",
+    "power": 60,
+    "tier": "Epic"
   }
 ]
